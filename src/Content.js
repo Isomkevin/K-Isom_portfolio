@@ -58,18 +58,18 @@ export const content = {
     },
   ],
   hero: {
-    title: "Web Developer",
-    firstName: "JOHN",
-    LastName: "ALEX",
+    title: "Full Stack Web Developer",
+    firstName: "KEVIN",
+    LastName: "ISOM",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
+        count: "5+",
         text: "Years of Experinse in Web development",
       },
       {
-        count: "20+",
+        count: "15+",
         text: "Projects Worked in my career",
       },
     ],
@@ -126,7 +126,7 @@ export const content = {
         logo: services_logo2,
       },
       {
-        title: "PhotoShop Editing",
+        title: "BackEnd Development",
         para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
         logo: services_logo3,
       },
@@ -144,6 +144,10 @@ export const content = {
       {
         title: "Social Media web",
         image: project2,
+      },
+      {
+        title: "Creative Website",
+        image: project3,
       },
       {
         title: "Creative Website",
@@ -194,14 +198,14 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "kevinisomcode1000@gmail.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:kevinisomcode1000@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+254 758 750620",
         icon: MdCall,
-        link: "https://wa.me/1234567890",
+        link: "https://wa.me/+254758750620",
       },
       {
         text: "codeaprogram",
